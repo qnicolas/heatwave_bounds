@@ -1,0 +1,14 @@
+name: atmos
+channels:
+  - conda-forge
+dependencies:
+  - numpy==2.3.4
+  - xarray==2025.10.1
+  - matplotlib==3.10.7
+  - shapely==2.1.2
+  - cartopy==0.25.0
+  - ipykernel==7.1.0
+  - jupyter==1.1.1
+  - metpy==1.7.1
+  - scipy==1.16.3
+  - netCDF4==1.7.3
