@@ -18,10 +18,12 @@ It uses various tools from `general_tools.py`, in particular for binning data, d
 
 The code relies on data from ERA5 (available [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-complete?tab=overview)) and IGRA2 (available through the [igra python package](https://pypi.org/project/igra/)).
 
-For convenience, we provide processed data from both sources in a dataset hosted on Zenodo. Simply download the dataset, change the DATA_PATH variable in the preamble of `make_figures.ipynb` to the dataset's location, and you'll be able to reproduce the figures.
+For convenience, we provide processed data from both sources in a dataset hosted on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20125256.svg)](https://doi.org/10.5281/zenodo.20125256). Simply download the dataset, change the DATA_PATH variable in the preamble of `make_figures.ipynb` to the dataset's location, and you'll be able to reproduce the figures.
 
 ## Citation
 
-If you use any of the code in your work, we simply ask you to cite the paper.
+If you use any of the code in your work, we simply ask you to cite the paper. 
+
+The code itself is also citable through Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20125545.svg)](https://doi.org/10.5281/zenodo.20125545)
 
 For any questions, do not hesitate to email me!
