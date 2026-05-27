@@ -22,7 +22,7 @@ For convenience, we provide processed data from both sources in a dataset hosted
 
 ## Citation
 
-If you use any of the code in your work, we simply ask you to cite the paper. 
+If you use any of the code in your work, we simply ask you to cite the [paper](https://wcd.copernicus.org/articles/7/843/2026/). 
 
 The code itself is also citable through Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20125545.svg)](https://doi.org/10.5281/zenodo.20125545)
 
